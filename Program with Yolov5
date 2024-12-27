@@ -21,7 +21,7 @@ if not cap.isOpened():
 #Let's capture the video stream and do object detection for 30 seconds
 start_time = time.time()
 
-while time.time() - start_time < 60: #You can change the time over here
+while time.time() - start_time < 60:  #You can change the time over here
     ret, frame = cap.read()
     
     if not ret:
