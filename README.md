@@ -7,5 +7,4 @@ First of all need to download ultralytics for use YoloV5. I already wrote inside
 ```
 Code is gonna work like that.
 <br><br>
-[https://github.com/user-attachments/assets/b366b53f-5e6e-4733-9273-9dec09aa6b44
-](https://github.com/user-attachments/assets/4a8a66ff-6340-482e-a68c-5550ae9facdc)
+https://github.com/user-attachments/assets/0b712a9e-5d4f-4dee-8a0f-19bee1e81268
