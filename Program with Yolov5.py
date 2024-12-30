@@ -8,7 +8,7 @@ from ultralytics import YOLO
 
 
 #Download YOLOv5 model
-model = torch.hub.load('ultralytics/yolov5', 'yolov5s')  #Load YOLOv5s !!!YoloV8 lastest version of Yolo but it is not available in ultralytics!!!
+model = torch.hub.load('ultralytics/yolov5', 'yolov5s')  #Load YOLOv5s !!!YoloV8 lastest version of Yolo but it is not available to use camera!!!
 
 #Use OpenCV to open the camera
 cap = cv2.VideoCapture(0)
