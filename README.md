@@ -6,7 +6,6 @@ First of all need to download ultralytics for use YoloV5. I already wrote inside
 !pip install ultralytics
 ```
 Code is gonna work like that.
-<br><br>
 
 https://github.com/user-attachments/assets/2f392398-1fa7-4459-8025-8fbdbd993e08
 
